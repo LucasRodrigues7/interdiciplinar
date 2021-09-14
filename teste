@@ -1,0 +1,33 @@
+<html>
+<meta charset="utf-8">
+    <head>
+        <img src="foto.png" height="50%" width="100%"></>
+        <h1 style="color:blue;" align="center">Projeto Interdiciplinar</h1>
+        <title>INF-03</title>
+    </head>
+
+    <body style="background-color:lightgreen;">
+        <h2 style="color:blue;" align="center">Sobre</h2>
+
+            <p style="color:black;" align="center">Em andamento</p>
+
+            <p style="color:black;" align="center">Em andamento.</p>
+
+            <br></br>
+
+        <h2 style="color:black;" align="center">Objetivo</h2>
+
+            <p style="black:cyan;" align="center">.</p>
+
+            <p style="color:black;" align="center">.</p>
+
+    </body>
+
+    <footer style="background-color:black;">
+        <p style="color:cyan;"> Feito por: Lucas Rodrigues</p>
+        <p style="color:cyan;"> E-mail: <a style="color:cyan;"> lucas.sr7698@gmail.com </a> </p>
+
+
+    </footer>
+</html>
+
